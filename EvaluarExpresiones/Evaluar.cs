@@ -196,6 +196,7 @@ public class Evaluar
 
     /**
      * Los operadores en el orden de precedencia.
+     * Sin incluir los paréntesis que se procesan por separado.
      */
     //static readonly String operadores = "()*/+-";
     static readonly String operadores = "*/+-";
